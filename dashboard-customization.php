@@ -18,11 +18,12 @@
  * Description:       This is a description of the plugin.
  * Version:           1.0.0
  * Author:            Awais irfan
- * Author URI:        https://www.awaisportfolio.com/
+ * Author URI:        https://www.awaisirfanportfolio.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       dashboard-customization
  * Domain Path:       /languages
+ * 
  */
 
 // If this file is called directly, abort.
